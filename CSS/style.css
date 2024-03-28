@@ -53,6 +53,9 @@
  .bordercustom1{
     border: 1px solid #BEBEBE;
  }   
+ .changing{
+    margin-left:370px !important;
+ }
 /* .para{
     margin-left: 150px;
 }
